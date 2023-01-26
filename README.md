@@ -1,6 +1,7 @@
 ## Instrucciones de instalación
 
 - git clone https://github.com/EnzoAmarilla/xintel_assessment.git
+- cd xintel_assessment/ 
 - composer install
 - duplicar archivo ".env.example" y llamarlo ".env"
 - php artisan key:generate
